@@ -1,0 +1,19 @@
+{
+  "name": "pixijs-helper",
+  "version": "1.0.0",
+  "description": "更好的使用pixijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pixijs",
+    "utils",
+    "helper"
+  ],
+  "author": "ningmin",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^7.2.4"
+  }
+}
